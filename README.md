@@ -1,8 +1,4 @@
-# COMS 4995: Applied ML Homework 2
-# Kunyi Liu (kl2912@columbia.edu) & Zhifu Xiao (zx2201@columbia.edu)
-# Please grade this homefork for both people! Thanks!
-![Travis CI](https://travis-ci.com/AppliedMachineLearning/homework-ii-Zhifu-Xiao.svg?token=yLiNgvBPda89LUoDmirf&branch=master
-)
+# Estimation of the Market Rate for Apartments in NYC with Python
 
 ### Summary
 In this project, a real estate agent wants to estimate the market rate for some apartments in NYC that just went into the market again using the data posted by the Census in 2014. Throughout this project, we mainly did three parts: data preprocessing, training model and use trained model to fit the test set. Our final results yield over 80% on R-squared and near to 90%.
